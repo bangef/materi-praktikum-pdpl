@@ -1,4 +1,4 @@
-package praktikum.delapan.mysingleton;
+package praktikum.delapan.app.mysingleton;
 
 /*
  * Eager :

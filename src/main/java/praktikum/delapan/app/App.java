@@ -1,9 +1,11 @@
 package praktikum.delapan.app;
 
+import java.util.Calendar;
+
 import praktikum.delapan.app.abc.ABC;
 import praktikum.delapan.app.car.Car;
 import praktikum.delapan.app.employee.EmployeeModel;
-import praktikum.delapan.mysingleton.MySingleton;
+import praktikum.delapan.app.mysingleton.MySingleton;
 
 /**
  * Hello world!
@@ -13,8 +15,8 @@ public class App {
     public static void main(String[] args) {
         /*
          * Immutable Object
-         * The immutable objects are objects whose value can not be changed after
-         * initialization
+         * The immutable objects adalah objek yang nilainya tidak dapat diubah setelah
+         * inisialisasi
          */
         // Car car = new Car("Mobilio", "black");
         // EmployeeModel employeeModel = new EmployeeModel("Ficri", "Hanip", "12121",

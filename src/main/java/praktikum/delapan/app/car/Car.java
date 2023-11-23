@@ -1,6 +1,6 @@
 package praktikum.delapan.app.car;
 
-public class Car {
+public final class Car {
   private String brand;
   private String color;
 
